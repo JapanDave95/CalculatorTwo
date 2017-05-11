@@ -34,7 +34,7 @@ namespace Calculator2
         double _result = 0;
         string _multi = "";
         
-        //add soome comments
+        //add some more comments
 
         private void btn_1_Click(object sender, RoutedEventArgs e)
         {
