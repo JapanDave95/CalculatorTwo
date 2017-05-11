@@ -1,0 +1,2 @@
+C:\Users\DaveB\Source\Repos\Calculator3\Calculator2\bin\Debug\Calculator2.exe.config
+C:\Users\DaveB\Source\Repos\CalculatorTwo\Calculator2\bin\Debug\Calculator2.exe.config
